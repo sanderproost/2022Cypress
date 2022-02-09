@@ -34,6 +34,7 @@ describe('intercepting mobileVikings', () => {
                 "reviews": [
                     { "name": "Sander", "score": 10, "text": "Decent service", "date": "2021-11-11T00:00:00Z" },
                     { "name": "NietSander", "score": 1, "text": "Bad service", "date": "2020-11-17T00:00:00Z" },
+                    { "name": "NietSSander", "score": 1, "text": "Bad service", "date": "2020-11-17T00:00:00Z" }
                 ]
             }
 
